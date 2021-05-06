@@ -1,0 +1,37 @@
+iniciar git:
+	abrir terminal na pasta -> git init .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
